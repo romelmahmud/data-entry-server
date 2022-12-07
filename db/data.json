@@ -1,0 +1,52 @@
+[
+  {
+    "id": "001",
+    "description": "Product number 01",
+    "price": 1280
+  },
+  {
+    "id": "002",
+    "description": "Product number 02",
+    "price": 630
+  },
+  {
+    "id": "003",
+    "description": "Product number 03",
+    "price": 510
+  },
+  {
+    "id": "004",
+    "description": "Product number 04",
+    "price": 270
+  },
+  {
+    "id": "005",
+    "description": "Product number 05",
+    "price": 3150
+  },
+  {
+    "id": "006",
+    "description": "Product number 06",
+    "price": 352
+  },
+  {
+    "id": "007",
+    "description": "Product number 07",
+    "price": 200
+  },
+  {
+    "id": "008",
+    "description": "Product number 08",
+    "price": 150
+  },
+  {
+    "id": "009",
+    "description": "Product number 09",
+    "price": 890
+  },
+  {
+    "id": "010",
+    "description": "Product number 10",
+    "price": 3460
+  }
+]
